@@ -1,4 +1,4 @@
-# pixiv-migrate
+# pixiv-account-migrate
 
 Move your following list, illust bookmarks, and novel bookmarks from one Pixiv account to another.
 
